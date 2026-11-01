@@ -12,15 +12,15 @@
 
 # \## Folders
 
-# \- `data/`      Member 1: loading, timeline, SQLite, demo patients
+# \- `data/`      Rohit KumarSingh: loading, timeline, SQLite, demo patients
 
-# \- `engine/`    Member 2: conflict, duplicate, missing-step detection and policy
+# \- `engine/`    Samir Kumar Shaw : conflict, duplicate, missing-step detection and policy
 
-# \- `api/`       Member 3: FastAPI backend
+# \- `api/`       Sanchayan Saha: FastAPI backend
 
-# \- `frontend/`  Member 3: React dashboard
+# \- `frontend/`  Sanchayan Saha: React dashboard
 
-# \- `tests/`     Member 4: stress tests and metrics
+# \- `tests/`     Monomoy Dikhshit: stress tests and metrics
 
 # 
 
