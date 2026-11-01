@@ -12,7 +12,7 @@
 
 # \## Folders
 
-# \- `data/`      Rohit KumarSingh: loading, timeline, SQLite, demo patients
+# \- `data/`      Rohit Kumar Singh: loading, timeline, SQLite, demo patients
 
 # \- `engine/`    Samir Kumar Shaw : conflict, duplicate, missing-step detection and policy
 
